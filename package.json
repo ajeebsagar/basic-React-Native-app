@@ -1,0 +1,14 @@
+{
+  "name": "internsala_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@react-native-firebase/app": "^22.4.0",
+    "@react-native-firebase/messaging": "^22.4.0",
+    "@react-navigation/native": "^7.1.14",
+    "@react-navigation/stack": "^7.4.2",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-screens": "^4.13.1"
+  }
+}
